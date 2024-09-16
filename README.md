@@ -1,8 +1,62 @@
-# React + Vite
+# Text Search
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the Text Search project! This is a React-based application for searching and displaying articles. Follow the instructions below to set up and view the website locally.
 
-Currently, two official plugins are available:
+## Prerequisites
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Ensure you have the following installed on your machine:
+
+- [Node.js](https://nodejs.org/) (version 14 or higher recommended)
+- [npm](https://www.npmjs.com/) (comes with Node.js) or [Yarn](https://yarnpkg.com/) (optional, as an alternative to npm)
+
+## Getting Started
+
+1. **Clone the Repository**
+
+   Clone this repository to your local machine using Git:
+
+   ```bash
+   git clone https://github.com/emadhmadyy/text-search.git
+   ```
+
+2. **Navigate to the Project Directory**
+
+   Change into the project directory:
+
+   ```bash
+   cd text-search
+   ```
+
+3. **Install Dependencies**
+
+   Install the project’s dependencies. You can use npm or Yarn for this:
+
+   Using npm:
+
+   ```bash
+   npm install
+   ```
+
+   Or using Yarn:
+
+   ```bash
+   yarn install
+   ```
+
+4. **Start the Development Server**
+
+   Start the local development server:
+
+   Using npm:
+
+   ```bash
+   npm start
+   ```
+
+   Or using Yarn:
+
+   ```bash
+   yarn start
+   ```
+
+   This will start the React development server and open the application in your default web browser. By default, it will be available at http://localhost:3000.
