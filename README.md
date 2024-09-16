@@ -50,13 +50,13 @@ Ensure you have the following installed on your machine:
    Using npm:
 
    ```bash
-   npm start
+   npm run dev
    ```
 
    Or using Yarn:
 
    ```bash
-   yarn start
+   yarn dev
    ```
 
    This will start the React development server and open the application in your default web browser. By default, it will be available at http://localhost:3000.
